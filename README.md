@@ -1,11 +1,14 @@
-# Corona-Virus-Webpage.github.io
+# Corona-Virus-Webpage
 
 Corona Awareness Web Page
+
 Project in Web Development. A Webpage which gives a detailed information of COVID-19 for eg. Symptons, Precautions, Helpline, Myths, Facts, etc using HTML/CSS.
-This website contains frontend for Corona Awareness website, and technologies used are
+This website contains frontend for Corona Awareness website, and technologies used are :
 
 HTML
+
 CSS
+
 BOOTSTRAP
 
 Steps to Use:
@@ -15,8 +18,11 @@ The site is live [Here](https://imhr1306.github.io/Corona-Virus-Webpage/)
           or
           
 Download or clone the repository
-git clone : https://github.com/imhr1306/Gym-Web-Page.git
+
+git clone : [Click Here](https://github.com/imhr1306/Corona-Virus-Webpage/archive/refs/heads/main.zip)
+
 Go to the directory
+
 Run the index.html file
 
 Output
